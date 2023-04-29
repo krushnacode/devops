@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f96f1ed61465ab37d11298d8306a0f25",
+    "revision": "3a57da27cfea2b3da08b445cae41af22",
     "url": "./index.html"
   },
   {
-    "revision": "b4c913e5b058f110f7b5",
-    "url": "./static/css/main.dfd40622.chunk.css"
+    "revision": "3a77687444b23cd6cad4",
+    "url": "./static/css/main.61498d27.chunk.css"
   },
   {
-    "revision": "f522ffcf3986b6f5c924",
-    "url": "./static/js/2.cdf73aad.chunk.js"
+    "revision": "a06f181cdac193f6627d",
+    "url": "./static/js/2.b4d7ac5e.chunk.js"
   },
   {
-    "revision": "b4c913e5b058f110f7b5",
-    "url": "./static/js/main.bfc350ea.chunk.js"
+    "revision": "3a77687444b23cd6cad4",
+    "url": "./static/js/main.52b276ca.chunk.js"
   },
   {
     "revision": "1a27038c5115d044f6f9",
@@ -90,6 +90,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "058eca4cbdc03a1dad9a6bb943ac7831",
     "url": "./static/media/blogs_image.058eca4c.svg"
+  },
+  {
+    "revision": "e03401b7c746a4b29718a8abe33509fe",
+    "url": "./static/media/celtic-trinity-knot-heart-line-260nw-2202027347.e03401b7.png"
   },
   {
     "revision": "b587e7b1824499d3ae96c32212143570",
@@ -224,6 +228,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/googleAssistant.a6addc3f.svg"
   },
   {
+    "revision": "2aee0c664e8283e1a9eb1df6780c5173",
+    "url": "./static/media/heart-6232887_960_720.2aee0c66.png"
+  },
+  {
+    "revision": "2763cfd2b7bf42118fe4f4f497f43ac8",
+    "url": "./static/media/iCon-1024-A.2763cfd2.2763cfd2.png"
+  },
+  {
     "revision": "d3fccbe1db76b96f4f320d9c0f7da30c",
     "url": "./static/media/ibm_logo.d3fccbe1.png"
   },
@@ -288,6 +300,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/shop.8b8e1658.png"
   },
   {
+    "revision": "9cfd187af5147130202b0eb6cb017bcd",
+    "url": "./static/media/smartchair.9cfd187a.svg"
+  },
+  {
     "revision": "2c497738be3831492aeb6bdc43f19154",
     "url": "./static/media/stanford_logo.2c497738.png"
   },
@@ -310,5 +326,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0c3afb9fb747fa21366cc4f04bac25b1",
     "url": "./static/media/unnamed-removebg-preview.0c3afb9f.0c3afb9f.png"
+  },
+  {
+    "revision": "134bc2015ab8e1884a0503e21008af23",
+    "url": "./static/media/word.134bc201.png"
   }
 ]);

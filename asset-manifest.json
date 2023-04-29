@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "./static/css/main.dfd40622.chunk.css",
-    "main.js": "./static/js/main.bfc350ea.chunk.js",
-    "main.js.map": "./static/js/main.bfc350ea.chunk.js.map",
+    "main.css": "./static/css/main.61498d27.chunk.css",
+    "main.js": "./static/js/main.52b276ca.chunk.js",
+    "main.js.map": "./static/js/main.52b276ca.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.fff6ee50.js",
     "runtime-main.js.map": "./static/js/runtime-main.fff6ee50.js.map",
-    "static/js/2.cdf73aad.chunk.js": "./static/js/2.cdf73aad.chunk.js",
-    "static/js/2.cdf73aad.chunk.js.map": "./static/js/2.cdf73aad.chunk.js.map",
+    "static/js/2.b4d7ac5e.chunk.js": "./static/js/2.b4d7ac5e.chunk.js",
+    "static/js/2.b4d7ac5e.chunk.js.map": "./static/js/2.b4d7ac5e.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.b16e58a0c595e0d9defa63fb11bafffe.js": "./precache-manifest.b16e58a0c595e0d9defa63fb11bafffe.js",
+    "precache-manifest.8f416595fe995a895ac91ea6cdbbedd4.js": "./precache-manifest.8f416595fe995a895ac91ea6cdbbedd4.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.dfd40622.chunk.css.map": "./static/css/main.dfd40622.chunk.css.map",
+    "static/css/main.61498d27.chunk.css.map": "./static/css/main.61498d27.chunk.css.map",
     "static/media/1200px-University_of_London_coat_of_arms.svg.9bb38b7d.png": "./static/media/1200px-University_of_London_coat_of_arms.svg.9bb38b7d.9bb38b7d.png",
     "static/media/1519867878606-removebg-preview.png": "./static/media/1519867878606-removebg-preview.cfa7e47f.png",
     "static/media/262cfac.png": "./static/media/262cfac.262cfac1.png",
@@ -22,6 +22,7 @@
     "static/media/animated image.png": "./static/media/animated image.9d68b605.png",
     "static/media/animated_logo.svg": "./static/media/animated_logo.dcd6dee2.svg",
     "static/media/blogs_image.svg": "./static/media/blogs_image.058eca4c.svg",
+    "static/media/celtic-trinity-knot-heart-line-260nw-2202027347.png": "./static/media/celtic-trinity-knot-heart-line-260nw-2202027347.e03401b7.png",
     "static/media/ckbneuyce0acqzbfz615bfu91-hrms-freshteam.one-half-removebg-preview.png": "./static/media/ckbneuyce0acqzbfz615bfu91-hrms-freshteam.one-half-removebg-preview.b587e7b1.png",
     "static/media/cloud_infrastructure.svg": "./static/media/cloud_infrastructure.cacbc42b.svg",
     "static/media/codeInLogo.png": "./static/media/codeInLogo.fee92c18.png",
@@ -41,6 +42,8 @@
     "static/media/github_logo.png": "./static/media/github_logo.6eeb2e81.png",
     "static/media/googleAssistant.jpg": "./static/media/googleAssistant.0c8a4c11.jpg",
     "static/media/googleAssistant.svg": "./static/media/googleAssistant.a6addc3f.svg",
+    "static/media/heart-6232887_960_720.png": "./static/media/heart-6232887_960_720.2aee0c66.png",
+    "static/media/iCon-1024-A.2763cfd2.png": "./static/media/iCon-1024-A.2763cfd2.2763cfd2.png",
     "static/media/ibm_logo.png": "./static/media/ibm_logo.d3fccbe1.png",
     "static/media/iiitk_logo.png": "./static/media/iiitk_logo.571a8584.png",
     "static/media/intel_logo.jpg": "./static/media/intel_logo.29152cf7.jpg",
@@ -57,17 +60,19 @@
     "static/media/pwa.png": "./static/media/pwa.71408db7.png",
     "static/media/sctpl_logo-removebg-preview.11675908.png": "./static/media/sctpl_logo-removebg-preview.11675908.11675908.png",
     "static/media/shop.png": "./static/media/shop.8b8e1658.png",
+    "static/media/smartchair.svg": "./static/media/smartchair.9cfd187a.svg",
     "static/media/stanford_logo.png": "./static/media/stanford_logo.2c497738.png",
     "static/media/t_311-removebg-preview.f9bece8d.png": "./static/media/t_311-removebg-preview.f9bece8d.f9bece8d.png",
     "static/media/talksCardBack.svg": "./static/media/talksCardBack.6ac91b16.svg",
     "static/media/talksCardBackAlt.svg": "./static/media/talksCardBackAlt.3fa54242.svg",
     "static/media/ui_ux_design.svg": "./static/media/ui_ux_design.d6363089.svg",
-    "static/media/unnamed-removebg-preview.0c3afb9f.png": "./static/media/unnamed-removebg-preview.0c3afb9f.0c3afb9f.png"
+    "static/media/unnamed-removebg-preview.0c3afb9f.png": "./static/media/unnamed-removebg-preview.0c3afb9f.0c3afb9f.png",
+    "static/media/word.png": "./static/media/word.134bc201.png"
   },
   "entrypoints": [
     "static/js/runtime-main.fff6ee50.js",
-    "static/js/2.cdf73aad.chunk.js",
-    "static/css/main.dfd40622.chunk.css",
-    "static/js/main.bfc350ea.chunk.js"
+    "static/js/2.b4d7ac5e.chunk.js",
+    "static/css/main.61498d27.chunk.css",
+    "static/js/main.52b276ca.chunk.js"
   ]
 }
