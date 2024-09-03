@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "./static/css/main.61498d27.chunk.css",
-    "main.js": "./static/js/main.52b276ca.chunk.js",
-    "main.js.map": "./static/js/main.52b276ca.chunk.js.map",
+    "main.js": "./static/js/main.0de7b220.chunk.js",
+    "main.js.map": "./static/js/main.0de7b220.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.fff6ee50.js",
     "runtime-main.js.map": "./static/js/runtime-main.fff6ee50.js.map",
-    "static/js/2.b4d7ac5e.chunk.js": "./static/js/2.b4d7ac5e.chunk.js",
-    "static/js/2.b4d7ac5e.chunk.js.map": "./static/js/2.b4d7ac5e.chunk.js.map",
+    "static/js/2.5d539cb5.chunk.js": "./static/js/2.5d539cb5.chunk.js",
+    "static/js/2.5d539cb5.chunk.js.map": "./static/js/2.5d539cb5.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.8f416595fe995a895ac91ea6cdbbedd4.js": "./precache-manifest.8f416595fe995a895ac91ea6cdbbedd4.js",
+    "precache-manifest.bc70220d7771fb4f9d76294e6285977a.js": "./precache-manifest.bc70220d7771fb4f9d76294e6285977a.js",
     "service-worker.js": "./service-worker.js",
     "static/css/main.61498d27.chunk.css.map": "./static/css/main.61498d27.chunk.css.map",
     "static/media/1200px-University_of_London_coat_of_arms.svg.9bb38b7d.png": "./static/media/1200px-University_of_London_coat_of_arms.svg.9bb38b7d.9bb38b7d.png",
@@ -71,8 +71,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.fff6ee50.js",
-    "static/js/2.b4d7ac5e.chunk.js",
+    "static/js/2.5d539cb5.chunk.js",
     "static/css/main.61498d27.chunk.css",
-    "static/js/main.52b276ca.chunk.js"
+    "static/js/main.0de7b220.chunk.js"
   ]
 }
